@@ -1,0 +1,17 @@
+{
+  "name": "Open Arena",
+  "format": "v87 packed tiles: x12,y12,tile8; LE32; no header",
+  "grid_tiles": 1024,
+  "tile_pixels": 16,
+  "boundary": {
+    "min": 128,
+    "max": 895,
+    "tile": 1
+  },
+  "interior": "766 x 766 empty tiles; no internal walls, obstacles or safe zones",
+  "tile_count": 3068,
+  "bytes": 12272,
+  "client_checksum": 863642,
+  "sha256": "bc91a7d4a8884a8616eed2dab48ea9a1cc523d099e9fdba6c64ccb3ba06cf4eb",
+  "scope": "New original level; shipped LOCAL.LVL preserved"
+}
